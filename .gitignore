@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Mac
+.DS_Store
+
+# Data (preveliko za git)
+training_data/
+test_holdout/
+splats/
+training/neural/
+training/bilateral/
+
+# Jupyter
+.ipynb_checkpoints/
